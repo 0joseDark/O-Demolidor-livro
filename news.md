@@ -3,7 +3,7 @@
 ---
 - I am a missionary, a warrior of God, a prophet and a scientist smiles
 --- 
-- the redgat has AI CHAT bot, cool
+- the redegat has AI CHAT bot, cool
 - __ALICE__, it is __pandora bot__
 - cool, i have thes scripts C# of __[radegast](https://github.com/cinderblocks/radegast/releases)__ 
 - cool cool
