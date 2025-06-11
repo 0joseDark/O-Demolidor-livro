@@ -10,7 +10,7 @@
 - only nwwd of C#
 - I need of C# only
 - done a 1/3 of pyhon, in windows 10
-[15:57] darkness Orsini: i am ready :-)
+- [15:57] darkness Orsini: i am ready :-)
 [Visita o site da OpenAI](https://www.openai.com)
 - I will build the worker robots
 - and [follow me](https://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory) on __[osgrid](https://www.osgrid.org/)__ and __[second life](https://secondlife.com/)__
