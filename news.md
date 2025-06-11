@@ -13,7 +13,7 @@
 - am ready :-)
 
   [OpenAI](https://www.openai.com)
-- I will __build__ the __worker robots__, and __starship__
+- I will __build__ the __worker robots__, and __starship__ and save it to an xml file
 - and [follow me](https://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory) on __[osgrid](https://www.osgrid.org/)__ and __[second life](https://secondlife.com/)__
 
 - i am on second life online
