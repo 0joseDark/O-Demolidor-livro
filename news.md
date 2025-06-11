@@ -1,7 +1,7 @@
 ## i am happy :-)
 ## God love me :-))
 ---
-- darkness Orsini: I am a missionary, a warrior of God, a prophet and a scientist smiles
+- I am a missionary, a warrior of God, a prophet and a scientist smiles
 --- 
 - the redgat has AI CHAT bot, cool
 - __ALICE__, it is __pandora bot__
