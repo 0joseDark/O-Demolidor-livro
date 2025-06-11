@@ -5,7 +5,7 @@
 --- 
 - the redgat has AI CHAT bot, cool
 - __ALICE__, it is __pandora bot__
-- cool, i have thes scripts C# of redgast
+- cool, i have thes scripts C# of __[radegast](https://github.com/cinderblocks/radegast/releases)__ 
 - cool cool
 - only nwwd of C#
 - I need of C# only
