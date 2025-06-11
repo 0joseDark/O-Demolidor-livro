@@ -1,5 +1,5 @@
 ## darkness Orsini: i am happy :-)
-## darkness Orsini: god love me :-))
+## darkness Orsini: God love me :-))
 ---
 - darkness Orsini: I am a missionary, a warrior of God, a prophet and a scientist smiles
 --- 
