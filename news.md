@@ -13,8 +13,9 @@
 [15:57] darkness Orsini: i am ready :-)
 [Visita o site da OpenAI](https://www.openai.com)
 - I will build the worker robots
-- and [follow me](https://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory) on __[osgridI](https://www.osgrid.org/)__ and __second life__
+- and [follow me](https://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory) on __[osgrid](https://www.osgrid.org/)__ and __[second life](https://secondlife.com/)__
 
 - i am on second life online
+
 - my name in osgrid is sugar baran
 
