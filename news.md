@@ -1,5 +1,5 @@
-## darkness Orsini: i am happy :-)
-## darkness Orsini: God love me :-))
+## i am happy :-)
+## God love me :-))
 ---
 - darkness Orsini: I am a missionary, a warrior of God, a prophet and a scientist smiles
 --- 
@@ -17,6 +17,6 @@
 - and [follow me](https://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory) on __[osgrid](https://www.osgrid.org/)__ and __[second life](https://secondlife.com/)__
 
 - i am on second life online
-
+my name is darkness Orsini
 - my name in osgrid is sugar baran
 
