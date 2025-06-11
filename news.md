@@ -10,13 +10,13 @@
 - only nwwd of C#
 - I need of C# only
 - done a 1/3 of pyhon, in windows 10
-- [15:57] darkness Orsini: i am ready :-)
+- am ready :-)
 
   [OpenAI](https://www.openai.com)
 - I will __build__ the __worker robots__, and __starship__
 - and [follow me](https://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory) on __[osgrid](https://www.osgrid.org/)__ and __[second life](https://secondlife.com/)__
 
 - i am on second life online
-my name is darkness Orsini
+- my name is darkness Orsini
 - my name in osgrid is sugar baran
 
