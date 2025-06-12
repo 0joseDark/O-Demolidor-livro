@@ -18,7 +18,10 @@
   [OpenAI](https://www.openai.com)
 - I will __build__ the __worker robots__, and __starship__ and save it to an xml file
 - and [follow me](https://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory) on __[osgrid](https://www.osgrid.org/)__ and __[second life](https://secondlife.com/)__
-
+- for hardware programming I will use CMOS gates and TTL logic gates
+- -https://www.ti.com/
+- -PHILIPS
+---  
 - i am on second life online
 - my name is darkness Orsini
 - my name in osgrid is sugar baran
