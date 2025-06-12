@@ -24,5 +24,6 @@
 - my name in osgrid is sugar baran
 ---
 - https://wiki.secondlife.com/wiki/LSL_Portal
+- http://opensimulator.org/wiki/Main_Page
 ---
 
