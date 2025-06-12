@@ -22,4 +22,7 @@
 - i am on second life online
 - my name is darkness Orsini
 - my name in osgrid is sugar baran
+---
+- https://wiki.secondlife.com/wiki/LSL_Portal
+---
 
