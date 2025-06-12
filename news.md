@@ -33,4 +33,5 @@
 - prims:
 - - blender
   - tokoroten https://drive.google.com/drive/folders/1UFASnYe9UkjypR-j_RjqcBVoUf4v_bmv?usp=drive_link
+  - __simulator digiyal__
 
