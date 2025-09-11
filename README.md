@@ -4,8 +4,6 @@
 - God is good
 ## i am happy :-)
 ## God love me :-))
----
-- I am a missionary, a warrior of God, a prophet and a scientist smiles
 --- 
 - the redegat has AI CHAT bot, cool
 - __ALICE__, it is __pandora bot__
