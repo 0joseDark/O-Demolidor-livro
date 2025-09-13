@@ -1,10 +1,6 @@
 
 ![robots](https://github.com/0joseDark/O-Demolidor-livro/blob/main/images/robots.png)
-
-- God is good
-## i am happy :-)
-## God love me :-))
---- 
+ 
 - the redegat has AI CHAT bot, cool
 - __ALICE__, it is __pandora bot__
 - cool, i have thes scripts C# of __[radegast](https://github.com/cinderblocks/radegast/releases)__ 
