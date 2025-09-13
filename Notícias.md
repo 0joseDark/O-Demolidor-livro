@@ -1,1 +1,0 @@
-## Deus e Bom
