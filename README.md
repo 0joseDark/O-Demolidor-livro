@@ -16,7 +16,7 @@
 - -https://www.ti.com/
 - -PHILIPS
 ---  
-- i am on second life online
+- i am on second life
 - my name is darkness Orsini
 - my name in osgrid is sugar baran
 ---
